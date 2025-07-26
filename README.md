@@ -24,6 +24,33 @@ This is a **console-based typing speed game** built in Java. The game challenges
 2. Clone the repository or copy the code.
 3. Compile and run:
 
-```bash
-javac TypingSpeedGame.java
-java TypingSpeedGame
+📸 Example Output
+
+🧠 Typing Speed Test
+Type the sentence below as fast and accurately as you can:
+
+👉 "Typing fast is a skill that improves with practice"
+
+Press Enter to start...
+
+Start typing: Typing fast is a skill that improves with practice
+
+⏱️ Time Taken: 8.21 seconds
+📈 Words Per Minute (WPM): 43.83
+🎯 Accuracy: 100.00%
+
+🎉 Result saved!
+
+📜 Typing History
+On each run, your results are saved to a file called typing_history.txt. Example:
+
+2025-07-25 10:34:12 | Time: 8.21s | WPM: 43.83 | Accuracy: 100.00%
+
+💡 Future Improvements
+Add leaderboard from history
+
+Visual interface with JavaFX or Swing
+
+Include difficulty levels (easy/medium/hard)
+
+Sentence categories (e.g. quotes, technical, casual)
